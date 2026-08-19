@@ -7,6 +7,12 @@ DeepSeek Harness Web GUI 动态背景插件（live wallpaper），by 十三 / th
 （静音循环、硬件加速、切后台自动暂停），图片走 CSS `background-image`。
 纯客户端插件，设置存于浏览器 localStorage，上传文件存 IndexedDB（不限大小）。
 
+## Demo
+
+<video src="assets/demo.mp4" poster="assets/demo-poster.jpg" controls muted loop width="100%"></video>
+
+*15 秒实拍：DeepSeek Harness Web 界面 + 动态背景效果。*
+
 ## 安装
 
 ```sh
