@@ -1,0 +1,5 @@
+# dsh-animated-bg bundle patch: registers the animated background plugin.
+# Install with: dsh plugin --profile web add <path-to-this-package>
+- insert:
+    - id: animated-bg
+      name: 'dsh-animated-bg'
