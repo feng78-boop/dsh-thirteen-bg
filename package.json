@@ -1,7 +1,7 @@
 {
   "name": "dsh-animated-bg",
-  "version": "0.1.0",
-  "description": "Animated background (live wallpaper) for the DeepSeek Harness Web GUI.",
+  "version": "0.2.0",
+  "description": "Animated and video live wallpaper for the DeepSeek Harness Web GUI — GIF, animated WebP/APNG images plus MP4/WebM video backgrounds, with auto format detection and a dim slider.",
   "type": "module",
   "main": "lib/index.js",
   "files": [
