@@ -9,9 +9,11 @@ DeepSeek Harness Web GUI 动态背景插件（live wallpaper），by 十三 / th
 
 ## Demo
 
-<video src="assets/demo.mp4" poster="assets/demo-poster.jpg" controls muted loop width="100%"></video>
+<video src="https://raw.githubusercontent.com/feng78-boop/dsh-thirteen-bg/master/assets/demo.mp4" poster="https://raw.githubusercontent.com/feng78-boop/dsh-thirteen-bg/master/assets/demo-poster.jpg" controls muted loop width="100%"></video>
 
 *15 秒实拍：DeepSeek Harness Web 界面 + 动态背景效果。*
+
+[📹 无法播放？点此直接打开 demo.mp4](https://raw.githubusercontent.com/feng78-boop/dsh-thirteen-bg/master/assets/demo.mp4)
 
 ## 安装
 
