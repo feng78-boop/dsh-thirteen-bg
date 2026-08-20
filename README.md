@@ -2,7 +2,7 @@
 
 DeepSeek Harness Web GUI 动态背景插件（live wallpaper），by 十三 / thirteen。
 
-支持 **GIF / 动图 WebP / APNG** 图片，以及 **MP4 / WebM / MOV 视频**背景——
+支持 **GIF / 动图 WebP / APNG / 静态 PNG / JPG** 图片，以及 **MP4 / WebM / MOV 视频**背景——
 格式自动识别：上传或填 URL 时按扩展名/MIME 判断，视频走 `<video>` 层
 （静音循环、硬件加速、切后台自动暂停），图片走 CSS `background-image`。
 纯客户端插件，设置存于浏览器 localStorage，上传文件存 IndexedDB（不限大小）。
@@ -38,7 +38,8 @@ dsh plugin --profile web add dsh-thirteen-bg
 
 | 类型 | 建议 |
 |---|---|
-| 图片动图 | GIF / 动图 **WebP**（推荐）/ APNG；长边 ≤ 1920px；8–20 秒无缝循环 |
+| 图片（动图） | GIF / 动图 **WebP**（推荐）/ APNG；长边 ≤ 1920px；8–20 秒无缝循环 |
+| 图片（静态） | PNG / JPG 均可作高清静态壁纸；长边 ≤ 1920px |
 | 视频 | **MP4（H.264）**或 **WebM（VP9）**；1080p 足够；10–60 秒（`loop` 自动循环，无需首尾无缝） |
 | 通用 | 深色/低饱和为主（背景后有文字，插件自带「压暗」滑块）；体积建议 ≤ 几十 MB 保证流畅 |
 
